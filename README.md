@@ -1,5 +1,6 @@
 # Webcam VR
-Adjust camera position in a 3d scene based on the user position estimated by your webcam
+Adjust camera position in a 3d scene based on the user position estimated by your webcam.
+Uses OpenCV 3, Numpy and VPython.
 
 ## System requirements
  - Webcam
