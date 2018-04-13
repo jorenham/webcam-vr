@@ -2,8 +2,8 @@
 Adjust camera position in a 3d scene based on the user position estimated by your webcam
 
 ## System requirements
- - Have a webcam
- -
+ - Webcam
+ - Python 3.5 or higher
 
 ## Install & run
 ```bash
